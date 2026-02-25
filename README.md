@@ -1,1 +1,1 @@
-# proiect_mds
+# proiect_mdsconfigurare
